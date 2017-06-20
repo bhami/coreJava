@@ -3,6 +3,7 @@ package com.bhami.coreJava;
 public class ArraySum {
 
 	public static void main(String[] args) {
+		System.out.println("Pushing new changes");
 		System.out.println("Doing array sum");
 		StringBuilder sb = new StringBuilder();
 		int out = 11;
