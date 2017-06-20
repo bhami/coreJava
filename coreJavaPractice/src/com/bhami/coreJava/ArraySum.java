@@ -6,6 +6,7 @@ public class ArraySum {
 		System.out.println("Pushing new changes");
 		System.out.println("Doing array sum");
 		StringBuilder sb = new StringBuilder();
+		
 		int out = 11;
 		int iteration = 0;
 		int found = 0;
@@ -25,6 +26,7 @@ public class ArraySum {
 		if (found != 0)
 			System.out.println("Found :" + found + " pairs");
 		else
+			
 			System.out.println("Found :" + found + " pairs");
 		
 	}
