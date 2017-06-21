@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class ArrayPairSumTest {
 	@SuppressWarnings("resource")
 	public static void main(String[] args){
-			System.out.println("Enter number of  input elements in the array  :");
+			System.out.println("Enter number of  input elements in the array  by Bhami :");
 			int elementCnt = new Scanner(System.in).nextInt();
 			System.out.println("Enter the number X for the sum :\n");
 			int sumInput = new Scanner(System.in).nextInt();
